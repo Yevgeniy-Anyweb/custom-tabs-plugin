@@ -487,7 +487,7 @@ if (!class_exists('Custom_Tabs_Options_Page')) {
             type="hidden" />
 
           <input
-            value="<?php echo isset($tab['grid'][0]['right']['bottom']['description']) ? ($tab['grid'][0]['right']['bottom']['description']) : '' ?>" 
+            value='<?php echo isset($tab['grid'][0]['right']['bottom']['description']) ? ($tab['grid'][0]['right']['bottom']['description']) : '' ?>' 
             class="right-bottom-description-input" 
             name="custom_tabs_plugin_options_tabs[tabs][<?php echo $tab_index ?>][grid][0][right][bottom][description]"  
             type="hidden" />
