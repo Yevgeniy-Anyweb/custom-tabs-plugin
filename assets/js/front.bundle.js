@@ -1,0 +1,1 @@
+jQuery(document).ready((function(a){a("#tabs-nav .tab:not(#add-tab-button)").on("click",(function(){if(!a(this).hasClass("active")){var t=a(this).data("index");a("#tabs-nav .tab").removeClass("active"),a(this).addClass("active"),a(".tab-content").hide(),a("#tab-"+t).show()}}))}));
