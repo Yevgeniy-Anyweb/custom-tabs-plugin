@@ -1,12 +1,12 @@
-# Custom Tabs Plugin
+n# Custom Tabs Plugin
 
 **Plugin Name:** Custom Tabs Plugin  
 **Description:** A custom tabs plugin with an options page, ACF fields, and shortcode support.  
 **Version:** 1.0.0  
-**Author:** Evgeny  
+**Author:** Yevgeni AnyWeb  
 **Text Domain:** custom-tabs-plugin  
 **Domain Path:** /languages  
-**Requires PHP:** 8.4  
+**Requires PHP:** 7.4  
 **Requires at least:** 5.8  
 
 ## Description
