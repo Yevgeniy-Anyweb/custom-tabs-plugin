@@ -6,7 +6,7 @@
  * Author: Evgeny
  * Text Domain: custom-tabs-plugin
  * Domain Path: /languages
- * Requires PHP: 8.4
+ * Requires PHP: 7.4
  * Requires at least: 5.8
  */
 
